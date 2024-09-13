@@ -1,3 +1,6 @@
 #Criando - Aluna Lívia Niliane
 Alunos = {"Ana","Bruno","Carla","Daniel"}
-print(alunos)
+print(Alunos)
+
+Alunos.add("Eduarda")
+print(Alunos)
